@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.df1aea6f.chunk.css",
-    "main.js": "/static/js/main.d67b8e58.chunk.js",
-    "main.js.map": "/static/js/main.d67b8e58.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.da84151f.js",
-    "runtime~main.js.map": "/static/js/runtime~main.da84151f.js.map",
-    "static/js/2.90171546.chunk.js": "/static/js/2.90171546.chunk.js",
-    "static/js/2.90171546.chunk.js.map": "/static/js/2.90171546.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2a4406da62e0ef82cbd5853b90aa7b74.js": "/precache-manifest.2a4406da62e0ef82cbd5853b90aa7b74.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.df1aea6f.chunk.css.map": "/static/css/main.df1aea6f.chunk.css.map"
+    "main.css": "/krista1/krista1.github.io/static/css/main.df1aea6f.chunk.css",
+    "main.js": "/krista1/krista1.github.io/static/js/main.7929e051.chunk.js",
+    "main.js.map": "/krista1/krista1.github.io/static/js/main.7929e051.chunk.js.map",
+    "runtime~main.js": "/krista1/krista1.github.io/static/js/runtime~main.b5536f97.js",
+    "runtime~main.js.map": "/krista1/krista1.github.io/static/js/runtime~main.b5536f97.js.map",
+    "static/js/2.0b794f52.chunk.js": "/krista1/krista1.github.io/static/js/2.0b794f52.chunk.js",
+    "static/js/2.0b794f52.chunk.js.map": "/krista1/krista1.github.io/static/js/2.0b794f52.chunk.js.map",
+    "index.html": "/krista1/krista1.github.io/index.html",
+    "precache-manifest.48d74e317b21a202f007df0059ca63ab.js": "/krista1/krista1.github.io/precache-manifest.48d74e317b21a202f007df0059ca63ab.js",
+    "service-worker.js": "/krista1/krista1.github.io/service-worker.js",
+    "static/css/main.df1aea6f.chunk.css.map": "/krista1/krista1.github.io/static/css/main.df1aea6f.chunk.css.map"
   }
 }
